@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://nivi123:nivi123@devconnector.yanhr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
